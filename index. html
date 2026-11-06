@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title>Research Report - Web Development and Digital Services</title>
+</head>
+<body>
+    <h1>Web Development and Digital Services Overview</h1>
+    <p><strong>Student Name:</strong> Rawnaa mohamed</p>
+    <p><strong>University ID:</strong> 2500211</p>
+    <p><strong>Section:</strong> 64</p>
+
+    <h2>Introduction</h2>
+    <p>The rapid advancement of web technologies has fundamentally revolutionized how information is shared and accessed globally, enhancing user interaction across multiple platforms.</p>
+
+    <h2>Topic Overview</h2>
+    <p>Modern digital ecosystems rely heavily on innovative web standards and structured databases to deliver secure, fast, and accessible services to diverse audiences.</p>
+
+    <img src="my-image.jpg" alt="Report Illustration" width="300">
+
+    <h1>Comparison Table</h1>
+    <table border="1" cellpadding="8">
+        <tr>
+            <th>Development Metrics</th>
+            <th>Traditional Approaches</th>
+            <th>Advanced Web Solutions</th>
+        </tr>
+        <tr>
+            <td>Processing Speed</td>
+            <td>Dependent on local systems</td>
+            <td>Optimized for high-speed cloud networks</td>
+        </tr>
+        <tr>
+            <td>User Experience</td>
+            <td>Static and limited interactivity</td>
+            <td>Dynamic and fully responsive</td>
+        </tr>
+    </table>
+
+    <h2>References</h2>
+    <ul>
+        <li><a href="https://developer.mozilla.org" target="_blank">MDN Web Documentation</a></li>
+        <li><a href="https://github.com" target="_blank">GitHub Developer Resources</a></li>
+    </ul>
+</body>
+</html>
